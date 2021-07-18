@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "http://honey-saini.github.io/PARI_RESIDENCY",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
